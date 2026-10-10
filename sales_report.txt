@@ -1,0 +1,10 @@
+Sales report
+Total sales: 279.95
+Number of orders: 4
+Keyboard sales: 80.0
+Keyboard count: 2
+Average order value: 69.9875
+Orders of 50 or more: 1
+Most expensive order: Mehmet - 180.0
+Invalid records: 0
+Missing price records: 0
